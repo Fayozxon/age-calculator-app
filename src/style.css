@@ -1,0 +1,31 @@
+/* Variables */
+:root {
+    /* Colors */
+    --clr-white: #ffffff;
+    --clr-bg-light: #f0f0f0;
+    --clr-purple: #864cff;
+    --clr-dark: #151515;
+    --clr-grey: #707070;
+    --clr-lt-grey: #dbdbdb;
+    --clr-red: #ff5757;
+}
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,800&display=swap');
+
+/* Core */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: var(--clr-dark);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--clr-bg-light);
+}
