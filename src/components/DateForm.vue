@@ -77,6 +77,10 @@ export default {
             if (this.isInputsValid) {
                 let dob = `${this.dateYear}-${this.dateMonth}-${this.dateDay}`;
                 this.$emit('calcTheAge', dob);
+
+                this.dateDay = '';
+                this.dateMonth = '';
+                this.dateYear = '';
             } else {
                 this.isFormValid = false;
             }
