@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Fayozxon/age-calculator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://fm-age-calculator.netlify.app/)
 
 ## My process
 
