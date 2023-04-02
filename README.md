@@ -51,7 +51,6 @@ Users should be able to:
 - Flexbox
 - Desktop-first workflow
 - [Vue](https://vuejs.org/) - JS Framework
-- [Next.js](https://nextjs.org/) - React framework
 
 ## Author
 
